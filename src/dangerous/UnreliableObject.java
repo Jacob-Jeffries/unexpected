@@ -1,7 +1,6 @@
 package dangerous;
 
 import java.util.Random;
-import dangerous.Hangover;
 
 public class UnreliableObject {
   private static Random rando = new Random();
